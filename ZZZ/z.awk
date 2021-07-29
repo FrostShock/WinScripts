@@ -1,0 +1,1 @@
+{ printf $0; if (match($0, /\x2ejpe?g$/)) printf " - Jpeg image"; print "" }
